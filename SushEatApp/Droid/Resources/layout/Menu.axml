@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/restaurantcustomer">
+    <Button
+        android:text="Vegetables"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="9pt"
+        android:gravity="left"
+        android:id="@+id/Veg" />
+    <Button
+        android:text="Sauces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="9pt"
+        android:gravity="left"
+        android:id="@+id/Sauce" />
+    <Button
+        android:text="Sushi Rolls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="9pt"
+        android:gravity="left"
+        android:id="@+id/Rolls" />
+    <EditText
+        android:id="@+id/fullName"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:inputType="text"
+        android:text="Full name" />
+    <EditText
+        android:id="@+id/email"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:inputType="textEmailAddress"
+        android:text="Email" />
+    <Button
+        android:text="SEND YOUR ORDER"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="9pt"
+        android:gravity="left"
+        android:id="@+id/sendOrder" />
+</LinearLayout>
