@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Android_Accelerated_x86_Nougat</SelectedDevice>
     <DefaultDevice>Android_Accelerated_x86_Nougat</DefaultDevice>
-    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredDevice>Nexus 5</AndroidDesignerPreferredDevice>
     <AndroidDesignerPreferredTheme>Theme.Holo.Panel</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,117 @@
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\SushEat.Droid.dll.config
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\SushEat.Droid.dll
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\SushEat.Droid.pdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\com.xamarin.sample.SushEat.apk
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\com.xamarin.sample.SushEat-Signed.apk
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\SushEat.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\SushEat.Droid.dll
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\SushEat.Droid.pdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\bin\com.xamarin.sample.SushEat.apk
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\operatemachine.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\mainpage.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\menu.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\rolls.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\veg.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\sauce.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\incomingorders.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\layout\processorder.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\values\theme.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\icon.png
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\values\color.xml
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\mainpage.jpeg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\sauces.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\sushirolls.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\mainpage.jpeg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\sauces.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\sushirolls.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\mainpage.jpeg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\sauces.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\sushirolls.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\mainpage.jpeg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\sauces.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\sushirolls.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\vegetables.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\vegetables.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\vegetables.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\vegetables.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable\restaurantcustomer.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-hdpi\restaurantcustomer.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xhdpi\restaurantcustomer.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\res\drawable-xxhdpi\restaurantcustomer.jpg
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\R.cs.flag
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\uploadflags.txt
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\MvvmCross.Platform.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\MvvmCross.Plugins.BLE.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\MvvmCross.Plugins.BLE.Droid.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Plugin.BLE.Abstractions.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Plugin.BLE.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\SushEat.Droid.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\MvvmCross.Plugins.BLE.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\MvvmCross.Plugins.BLE.Droid.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Plugin.BLE.Abstractions.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Plugin.BLE.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\SushEat.Droid.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Yan Itzhakovich\Desktop\Yan\projects\git\technion\SushEat\SushEatApp\Droid\bin\Release\SushEat.Droid.dll
+bin\Release\FormsViewGroup.dll.mdb
+bin\Release\Microsoft.WindowsAzure.Storage.dll.mdb
+bin\Release\MvvmCross.Platform.dll.mdb
+bin\Release\MvvmCross.Plugins.BLE.dll.mdb
+bin\Release\MvvmCross.Plugins.BLE.Droid.dll.mdb
+bin\Release\Plugin.BLE.Abstractions.dll.mdb
+bin\Release\Plugin.BLE.dll.mdb
+bin\Release\Xamarin.Forms.Core.dll.mdb
+bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Release\Xamarin.Forms.Xaml.dll.mdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.IO.Compression.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Microsoft.CSharp.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\SushEat.Droid.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Microsoft.WindowsAzure.Storage.dll.mdb
+obj\Release\linksrc\MvvmCross.Platform.dll.mdb
+obj\Release\linksrc\MvvmCross.Plugins.BLE.dll.mdb
+obj\Release\linksrc\MvvmCross.Plugins.BLE.Droid.dll.mdb
+obj\Release\linksrc\Plugin.BLE.Abstractions.dll.mdb
+obj\Release\linksrc\Plugin.BLE.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.IO.Compression.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Microsoft.CSharp.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
